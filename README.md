@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hexpit&theme=onedark&margin-w=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hexpit&theme=onedark&margin-w=5&column=7" />
 </p>
