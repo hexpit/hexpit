@@ -3,6 +3,36 @@
 </p>
 
 
+## GitHub Stats Cards
+
+<a href="https://github.com/developervijay7#gh-light-mode-only">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=developervijay7&fire=pink" alt="My GitHub Stats" />
+</a>
+<a href="https://github.com/developervijay7#gh-dark-mode-only">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=developervijay7&theme=radical&fire=green" alt="My GitHub Stats" />
+</a>
+
+<a href="https://github.com/developervijay7#gh-light-mode-only">
+ <img src="https://github-readme-stats.vercel.app/api?username=developervijay7&count_private=true&show_icons=true" alt="My GitHub Stats" />
+</a>
+<a href="https://github.com/developervijay7#gh-dark-mode-only">
+ <img src="https://github-readme-stats.vercel.app/api?username=developervijay7&count_private=true&show_icons=true&theme=radical" alt="My GitHub Stats" />
+</a>
+
+<a href="https://github.com/developervijay7#gh-light-mode-only">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=developervijay7&show_icons=true&langs_count=10&layout=compact" alt="My GitHub Stats" />
+</a>
+<a href="https://github.com/developervijay7#gh-dark-mode-only">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=developervijay7&show_icons=true&langs_count=10&layout=compact&theme=radical" alt="My GitHub Stats" />
+</a>
+
+<a href="https://github.com/developervijay7#gh-light-mode-only">
+ <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hexpit" alt="My GitHub Stats" />
+</a>
+<a href="https://github.com/developervijay7#gh-dark-mode-only">
+ <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hexpit&theme=radical" alt="My GitHub Stats" />
+</a>
+
 
 ## My Pinned Repositories
 
