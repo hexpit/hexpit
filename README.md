@@ -314,3 +314,8 @@ JavaScript               1 repo              █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 [![Vijay Goswami's github activity graph](https://activity-graph.herokuapp.com/graph?username=hexpit&theme=dracula)](https://github.com/developervijay7/github-readme-activity-graph)
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
