@@ -226,7 +226,7 @@
 ## GitHub Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-292%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -234,7 +234,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 736 Contributions in the Year 2022
+> 🏆 737 Contributions in the Year 2022
  > 
 > 📦 2.1 MB Used in GitHub's Storage 
  > 
@@ -244,52 +244,6 @@
  > 
 > 🔑 22 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    137 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.69% 
-🌆 Daytime    266 commits    █████████░░░░░░░░░░░░░░░░   36.29% 
-🌃 Evening    211 commits    ███████░░░░░░░░░░░░░░░░░░   28.79% 
-🌙 Night      119 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.23%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       151 commits    █████░░░░░░░░░░░░░░░░░░░░   20.6% 
-Tuesday      132 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.01% 
-Wednesday    112 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.28% 
-Thursday     65 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.87% 
-Friday       71 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.69% 
-Saturday     109 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.87% 
-Sunday       93 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.69%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Blade Template           12 hrs 44 mins      ███████████████░░░░░░░░░░   59.86% 
-PHP                      6 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   29.18% 
-JSON                     1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.38% 
-CSS                      18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.42% 
-JavaScript               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.17%
-
-🔥 Editors: 
-PhpStorm                 21 hrs 17 mins      █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-EduMate                  21 hrs 17 mins      █████████████████████████   100.0%
-
-💻 Operating System: 
-Linux                    21 hrs 17 mins      █████████████████████████   100.0%
-
-```
-
 **I Mostly Code in PHP** 
 
 ```text
@@ -307,7 +261,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/hexpit/hexpit/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/09/2022 18:55:34 UTC
+ Last Updated on 04/09/2022 18:49:51 UTC
 <!--END_SECTION:waka-->
 
 [![Vijay Goswami's github activity graph](https://activity-graph.herokuapp.com/graph?username=hexpit&theme=dracula)](https://github.com/developervijay7/github-readme-activity-graph)
