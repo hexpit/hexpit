@@ -234,7 +234,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 784 Contributions in the Year 2022
+> 🏆 785 Contributions in the Year 2022
  > 
 > 📦 2.1 MB Used in GitHub's Storage 
  > 
@@ -244,6 +244,48 @@
  > 
 > 🔑 22 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    174 commits    █████░░░░░░░░░░░░░░░░░░░░   20.89% 
+🌆 Daytime    303 commits    █████████░░░░░░░░░░░░░░░░   36.37% 
+🌃 Evening    231 commits    ███████░░░░░░░░░░░░░░░░░░   27.73% 
+🌙 Night      125 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.01%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       161 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.33% 
+Tuesday      155 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.61% 
+Wednesday    126 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.13% 
+Thursday     93 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.16% 
+Friday       78 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.36% 
+Saturday     114 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.69% 
+Sunday       106 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.73%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in PHP** 
 
 ```text
@@ -261,7 +303,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/hexpit/hexpit/main/charts/bar_graph.png) 
 
 
- Last Updated on 26/09/2022 19:00:28 UTC
+ Last Updated on 27/09/2022 19:10:22 UTC
 <!--END_SECTION:waka-->
 
 [![Vijay Goswami's github activity graph](https://activity-graph.herokuapp.com/graph?username=hexpit&theme=dracula)](https://github.com/developervijay7/github-readme-activity-graph)
