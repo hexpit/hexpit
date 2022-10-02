@@ -226,7 +226,7 @@
 ## GitHub Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-309%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-310%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -234,7 +234,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 804 Contributions in the Year 2022
+> 🏆 807 Contributions in the Year 2022
  > 
 > 📦 2.1 MB Used in GitHub's Storage 
  > 
@@ -247,8 +247,8 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    173 commits    █████░░░░░░░░░░░░░░░░░░░░   20.77% 
-🌆 Daytime    294 commits    ████████░░░░░░░░░░░░░░░░░   35.29% 
+🌞 Morning    172 commits    █████░░░░░░░░░░░░░░░░░░░░   20.65% 
+🌆 Daytime    295 commits    ████████░░░░░░░░░░░░░░░░░   35.41% 
 🌃 Evening    240 commits    ███████░░░░░░░░░░░░░░░░░░   28.81% 
 🌙 Night      126 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.13%
 
@@ -256,13 +256,13 @@
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       156 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.73% 
+Monday       153 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.37% 
 Tuesday      145 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.41% 
 Wednesday    130 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.61% 
 Thursday     102 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.24% 
 Friday       82 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.84% 
 Saturday     115 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.81% 
-Sunday       103 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.36%
+Sunday       106 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.73%
 
 ```
 
@@ -273,16 +273,19 @@ Sunday       103 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      41 mins             ███████████████████████░░   92.9% 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   3.08% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.1% 
+Blade Template           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.91%
 
 🔥 Editors: 
-No Activity Tracked This Week
+PhpStorm                 45 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+EduMate                  45 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    45 mins             █████████████████████████   100.0%
 
 ```
 
@@ -303,7 +306,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/hexpit/hexpit/main/charts/bar_graph.png) 
 
 
- Last Updated on 01/10/2022 18:58:24 UTC
+ Last Updated on 02/10/2022 19:02:13 UTC
 <!--END_SECTION:waka-->
 
 [![Vijay Goswami's github activity graph](https://activity-graph.herokuapp.com/graph?username=hexpit&theme=dracula)](https://github.com/developervijay7/github-readme-activity-graph)
